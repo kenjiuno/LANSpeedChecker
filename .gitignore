@@ -172,3 +172,5 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+/Setup_LANSpeedChecker.exe
+/Setup_LANSpeedChecker_0_1.exe

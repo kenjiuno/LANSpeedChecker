@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LANSpeedChecker", "LANSpeedChecker.csproj", "{61F2F873-81D2-4051-9E2F-3AFC826C68F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F2F873-81D2-4051-9E2F-3AFC826C68F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F2F873-81D2-4051-9E2F-3AFC826C68F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F2F873-81D2-4051-9E2F-3AFC826C68F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F2F873-81D2-4051-9E2F-3AFC826C68F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
